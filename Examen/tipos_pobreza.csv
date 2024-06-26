@@ -1,0 +1,4 @@
+columnas,tipos
+x,int32
+y,int32
+prom,float64
